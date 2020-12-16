@@ -1,0 +1,62 @@
+h2 {
+  font-family: "Orbitron", sans-serif;
+  color: rgb(233, 235, 243);
+  font-size: 12px;
+  text-shadow: 2px 2px 2px rgb(51, 48, 243);
+}
+h1 {
+  opacity: 85%;
+  font-family: "Orbitron", sans-serif;
+  color: rgb(255, 255, 255);
+  text-shadow: 3px 3px 10px rgb(38, 18, 219);
+}
+h3 {
+  font-size: 1, 5em;
+  opacity: 80%;
+  font-family: "Orbitron", sans-serif;
+  color: rgb(247, 10, 42);
+}
+img {
+  border-radius: 10% 10% 10% 10%;
+  border: solid 1px white;
+  margin: 2px;
+  box-shadow: 2px 2px 2px 4px rgb(66, 47, 238);
+}
+.headofsite {
+  border-radius: 10px;
+  opacity: 80%;
+  border: solid 2px red;
+  align-items: center;
+  text-align: center;
+  margin: 3px;
+}
+.navigation {
+  border-radius: 10px;
+  border: solid 2px red;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  flex: column;
+}
+.form {
+  display: flex;
+}
+.posterwrap {
+  border: solid 2px red;
+  border-radius: 10px;
+  display: flex;
+  flex-wrap: wrap;
+  flex: column;
+  justify-content: center;
+  box-shadow: 2px wheat;
+}
+
+.navbar {
+  padding: 10px 20px;
+}
+/* .main__list-li {
+  border-radius: 10%;
+  border: solid 1px white;
+  margin: 2px;
+  box-shadow: 2px 2px rgb(38, 18, 219);
+} */
